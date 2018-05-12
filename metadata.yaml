@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37074
     wikipedia: http://en.wikipedia.org/wiki/Ernest_George_Henham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38521#A-Drake-by-George-
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
 identifiers:
